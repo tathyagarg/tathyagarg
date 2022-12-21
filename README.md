@@ -1,20 +1,5 @@
 ### Hi, I'm Fenrir
 
-<!--
-**Fenrir0279/Fenrir0279** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 [![Discord Presence](https://lanyard.cnrad.dev/api/843391557168267295)](https://discord.com/users/843391557168267295)
 
 #### I'm currently working on ...
@@ -27,11 +12,11 @@ I have a public repo called [code-golfing](https://www.github.com/Fenrir0279/cod
 
 
 #### I'm currently learning ...
-Nothing for now, but hope to learn:
+[Nim!](https://www.nim-lang.org). After achieving a basic understanding of nim, I hope to expand my knowledge on:
 * Rust
 * C++
 * C
-* How to properly package code and publish it. (Adding good README.md, license, documentation, etc.)
+* Packaging/publishing code
 
 #### Pronouns
 I use he/him pronouns. I'm a typical cisgender male.
