@@ -12,7 +12,7 @@ I have a public repo called [code-golfing](https://www.github.com/Fenrir0279/cod
 
 
 #### I'm currently learning ...
-[Nim!](https://www.nim-lang.org). After achieving a basic understanding of nim, I hope to expand my knowledge on:
+[Nim!](https://www.nim-lang.org) After achieving a basic understanding of nim, I hope to expand my knowledge on:
 * Rust
 * C++
 * C
