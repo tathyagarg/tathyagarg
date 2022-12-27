@@ -19,7 +19,7 @@ I have a public repo called [code-golfing](https://www.github.com/Fenrir0279/cod
 * Packaging/publishing code
 
 #### Pronouns
-I use he/him pronouns. I'm a typical cisgender male.
+I use he/him pronouns.
 
 #### Fun fact
 Ice cream is the best thing to ever grace this world. If you disagree, I don't like you.
