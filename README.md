@@ -2,6 +2,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/843391557168267295)](https://discord.com/users/843391557168267295)
 
+![Fenrir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrir0279&theme=onedark&show_icons=true)
+
 #### I'm currently working on ...
 ##### A discord bot!
 I'm currently working on a Pokemon themed discord bot, to emulate a Pokemon game *inside* discord!
