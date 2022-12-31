@@ -1,8 +1,13 @@
 ### Hi, I'm Fenrir
 
+#### Me on discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/843391557168267295)](https://discord.com/users/843391557168267295)
 
+#### My Github Stats:
 ![Fenrir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrir0279&theme=onedark&show_icons=true)
+
+#### My most used languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenrir0279)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm currently working on ...
 ##### A discord bot!
