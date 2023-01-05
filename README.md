@@ -4,7 +4,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/843391557168267295)](https://discord.com/users/843391557168267295)
 
 #### My Github Stats:
-![Fenrir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenrir0279&theme=onedark&show_icons=true&count_private=true)
+![My stats](https://github-readme-streak-stats.herokuapp.com/?user=Fenrir0279)
 
 #### My most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenrir0279&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
