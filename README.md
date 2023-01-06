@@ -7,7 +7,7 @@
 ![My stats](https://github-readme-streak-stats.herokuapp.com/?user=Fenrir0279&theme=onedark)
 
 #### My most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenrir0279&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fenrir0279&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 #### I'm currently working on ...
 ##### A discord bot!
