@@ -1,4 +1,4 @@
-### [Hi, I'm Fenrir](https://fenrir0279.github.io)
+### [Hi, I'm Tathya](https://fenrir0279.github.io)
 
 #### Me on discord:
 [![Discord Presence](https://lanyard.cnrad.dev/api/843391557168267295)](https://discord.com/users/843391557168267295)
