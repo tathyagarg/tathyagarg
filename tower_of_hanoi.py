@@ -1,7 +1,5 @@
 import timeit
 
-start = timeit.default_timer()
-
 def ToH(n: int, src: list[int], dest: list[int], aux: list[int], s=1):
     print(src, dest, aux, f"{n=} {src=} {dest=} {aux=} {s=}")
     if n == 1:
@@ -15,7 +13,8 @@ def ToH(n: int, src: list[int], dest: list[int], aux: list[int], s=1):
 
 
 number = int(input("Enter size: "))
-print(ToH(number, list(range(number)), [], []))
 
+start = timeit.default_timer()
+print(ToH(number, list(range(number)), [], []))
 end = timeit.default_timer()
 print(f"Execution time: {end - start}")
