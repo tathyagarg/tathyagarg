@@ -1,6 +1,11 @@
-# Hi, I'm Tathya
+# Hello, I'm Tathya 👋👨‍💻
+<!--![](https://komarev.com/ghpvc/?username=tathyagarg)-->
 
-Recently started using GitHub again, don't feel like making a whole file about me.
+I just like writing code. I'm fluent in python, and am currently trying to extend my horizons to other languages such as Rust and C, as well as libraries within python for web-scraping, AI/ML, Cloud computing etc. Basically, I'm trying to broaden my tech stack.
+
+> Click [here](https://github.com/tathyagarg/tathyagarg/tech_stack.md) to see the frameworks I'm learning.
+
+![Tathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tathyagarg&show_icons=true&theme=tokyonight)
 
 Projects:
 1. [Discontinued] [TathyaLang](https://github.com/tathyagarg/TathyaLang) - My custom programming language written in Rust (everyone needs their own language, right?)
