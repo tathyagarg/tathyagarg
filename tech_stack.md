@@ -18,3 +18,4 @@ This is a list of all the frameworks/skills I want to learn by mid 2024, end of 
 | Vue.js | Not Done | JavaScript |
 | Angular | Not Done | JavaScript |
 | HTTPS | Not Done | ? |
+| TensorFlow | Doing | ? |
