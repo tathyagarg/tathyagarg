@@ -1,5 +1,6 @@
 # Hello, I'm Tathya 👋👨‍💻
 <!--![](https://komarev.com/ghpvc/?username=tathyagarg)-->
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 I just like writing code. I'm fluent in python, and am currently trying to extend my horizons to other languages such as Rust and C, as well as libraries within python for web-scraping, AI/ML, Cloud computing etc. Basically, I'm trying to broaden my tech stack.
 
