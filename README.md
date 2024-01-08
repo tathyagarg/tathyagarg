@@ -21,3 +21,4 @@ Also, this directory, `tathyagarg/tathyagarg`, contains random code files that d
 
 ## Currently Learning
 I'm currently learning Machine Learning through [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
+Also learning assembly programming so I can make my own OS in the future.
