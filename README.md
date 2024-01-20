@@ -6,6 +6,10 @@ I just like writing code. I'm fluent in python, and am currently trying to exten
 
 > Click [here](https://github.com/tathyagarg/tathyagarg/blob/main/tech_stack.md) to see the frameworks I'm learning.
 
+## Langauges
+In terms of coding languages, I mainly code in Python, but am well-versed in C and am learning Assembly.
+In terms of real-world languages, I'm fluent in English and speak decent German. I'm also learning Dutch.
+
 ## Tech Stack
 Currently working on this right now, but I'm fluent in Python, but I'm learning Rust, C and frameworks in Python to use it in real world. Might also learn C++ along with frameworks for its real world application (Game design?)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tathyagarg&theme=dark)](https://git.io/streak-stats)
