@@ -2,7 +2,7 @@
 <!--![](https://komarev.com/ghpvc/?username=tathyagarg)-->
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-I just like writing code. I'm fluent in python, and am currently trying to extend my horizons to other languages such as Rust and C, as well as libraries within python for web-scraping, AI/ML, Cloud computing etc. Basically, I'm trying to broaden my tech stack.
+I just like writing code. I'm fluent in python, and am currently trying to extend my horizons to other languages such as Rust and C, as well as libraries within python for web-scraping, AI/ML, Cloud computing etc. Basically, I'm trying to broaden my tech stack. Don't expect to see many contributions in the next few days, super caught up with exams. I'll try to maintain at least 1 contribution a day, though.
 
 > Click [here](https://github.com/tathyagarg/tathyagarg/blob/main/tech_stack.md) to see the frameworks I'm learning.
 
