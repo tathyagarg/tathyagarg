@@ -13,13 +13,17 @@ In terms of real-world languages, I'm fluent in English and speak decent German.
 ## Tech Stack
 Currently working on this right now, but I'm fluent in Python, but I'm learning Rust, C and frameworks in Python to use it in real world. Might also learn C++ along with frameworks for its real world application (Game design?)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tathyagarg&theme=dark)](https://git.io/streak-stats)
-![Tathya's GitHub stats](https://github-readme-stats.vercel.app/api?username=tathyagarg&show_icons=true&theme=dark)
 
 ## Projects:
 1. [Discontinued] [TathyaLang](https://github.com/tathyagarg/TathyaLang) - My custom programming language written in Rust (everyone needs their own language, right?)
 2. [TathyLang-python](https://github.com/TathyaLang/TathyaLang-python) - The same programming language but written in Python (I'm more fliuent in Python than in Rust)
 3. [Minimal Menu Maker](https://github.com/tathyagarg/min-menu-maker) - A minimal menu maker to make choice menus in python. You can create a whole menu in 1 line.
 4. [Discontinued] [TathyaOS](https://github.com/tathyagarg/TutorialOS) - My own OS written in Rust. Discontinued as I didn't want to blindly follow a tutorial. Might make another OS soon though.
+
+## Future Projects
+1. A personal portfolio website
+2. A blog
+3. Finishing this list
 
 Also, this directory, `tathyagarg/tathyagarg`, contains random code files that don't require a repository but I still want to show.
 
