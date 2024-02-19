@@ -23,7 +23,7 @@ Currently working on this right now, but I'm fluent in Python, but I'm learning 
 ## Future Projects
 1. A personal portfolio website
 2. A blog
-3. Finishing this list
+3. Also I have a few data science projects lined up to work on.
 
 Also, this directory, `tathyagarg/tathyagarg`, contains random code files that don't require a repository but I still want to show.
 
