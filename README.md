@@ -19,6 +19,7 @@ Currently working on this right now, but I'm fluent in Python, but I'm learning 
 2. [TathyLang-python](https://github.com/TathyaLang/TathyaLang-python) - The same programming language but written in Python (I'm more fliuent in Python than in Rust)
 3. [Minimal Menu Maker](https://github.com/tathyagarg/min-menu-maker) - A minimal menu maker to make choice menus in python. You can create a whole menu in 1 line.
 4. [Discontinued] [TathyaOS](https://github.com/tathyagarg/TutorialOS) - My own OS written in Rust. Discontinued as I didn't want to blindly follow a tutorial. Might make another OS soon though.
+5. [Chatbot](https://github.com/tathyagarg/chatbot) - Trying to learn data science and AI, thought this would be a good way to do so.
 
 ## Future Projects
 1. A personal portfolio website
