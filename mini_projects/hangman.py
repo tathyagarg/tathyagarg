@@ -57,9 +57,7 @@ def fetch_wordlist(src: str = 'words.txt', delimeter: str = ' ') -> list[str]:
         return f.readline().split(delimeter)
 
 def display_clues(secret_word: str, gussed_letters: str, blank_character: str = '-', fetch: bool = False) -> None | str:
-    construction = ''
-    for character in secret_word:
-        construction += [blank_character, character][character in gussed_letters]
+    construction = ''.join([[blank_character, character][character in guessed_letters] for character in secret_word])
     
     if fetch:
         return construction
@@ -78,8 +76,7 @@ def hangman(secret_word: str, lives: int = 6):
     guessed_letters: str = ''
     while True:
         word = display_clues(secret_word, guessed_letters, fetch=True)
-        print(STATES[LIVE_LIMIT-lives])
-        print(word)
+        print(STATES[LIVE_LIMIT-lives], word, sep='\n')
 
         if word == secret_word: break
         if lives == 0: break
@@ -92,7 +89,6 @@ def hangman(secret_word: str, lives: int = 6):
     if lives == 0: print(f"You lose! The correct word was {secret_word}")
     elif word == secret_word: print("You won!")
     else: print("There seems to be a bug...")  # This should never get executed.
-
 
 def main():
     wordlist: list[str] = fetch_wordlist()
