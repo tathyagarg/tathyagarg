@@ -26,7 +26,7 @@ Currently working on this right now, but I'm fluent in Python, but I'm learning 
 2. A blog
 3. Also I have a few data science projects lined up to work on.
 
-Also, this directory, `tathyagarg/tathyagarg`, contains random code files that don't require a repository but I still want to show.
+Also, a sub-directory, `tathyagarg/tathyagarg/mini_projects`, contains small mini projects that are too quick and small for a dedicated repo, but I still would like to show.
 
 ## Currently Learning
 I'm currently learning Machine Learning through [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
