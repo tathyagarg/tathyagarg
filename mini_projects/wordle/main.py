@@ -47,16 +47,16 @@ def int_to_str(integer: int) -> str:
 
 class Game:
     def __init__(self, difficulty: Difficulty = None, **kwargs) -> None:
-        seed = kwargs.get('seed', "".join(random.choices(SEED_SET, k=5)))
+        seed: str = kwargs.get('seed', None)
         if not seed:
             seed = "".join(random.choices(SEED_SET, k=5))
 
-        self.seed = seed
+        self.seed: str = seed
 
-        self.__answer = self.fetch_answer()
-        self.guesses = []
-        self.difficulty = difficulty or Difficulty.MEDIUM
-        self.chances = int(self.difficulty)
+        self.__answer: str = self.fetch_answer()
+        self.guesses: list[str] = []
+        self.difficulty: Difficulty = difficulty or Difficulty.MEDIUM
+        self.chances: int = int(self.difficulty)
 
     def fetch_answer(self) -> str:
         with open(ANSWERS, 'r') as f:
