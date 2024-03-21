@@ -13,6 +13,7 @@ In terms of real-world languages, I'm fluent in English and speak decent German.
 ## Tech Stack
 Currently working on this right now, but I'm fluent in Python, but I'm learning Rust, C and frameworks in Python to use it in real world. Might also learn C++ along with frameworks for its real world application (Game design?)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tathyagarg&theme=dark)]
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tathyagarg&theme=github)
 
 ## Projects:
 1. [Discontinued] [TathyaLang](https://github.com/tathyagarg/TathyaLang) - My custom programming language written in Rust (everyone needs their own language, right?)
