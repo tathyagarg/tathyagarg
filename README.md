@@ -5,14 +5,12 @@
 
 I just like writing code. I'm fluent in python, and am currently trying to extend my horizons to other languages such as Rust and C, as well as libraries within python for web-scraping, AI/ML, Cloud computing etc. Basically, I'm trying to broaden my tech stack.
 
-> Click [here](https://github.com/tathyagarg/tathyagarg/blob/main/tech_stack.md) to see the frameworks I'm learning.
-
 ## Langauges
 In terms of coding languages, I mainly code in Python, but am well-versed in C and am learning Assembly.
 In terms of real-world languages, I'm fluent in English and speak decent German. I'm also learning Dutch.
 
 ## Tech Stack
-Currently working on this right now, but I'm fluent in Python, and I'm learning Rust, C and frameworks in Python to use in the real world. Might also learn C++ along with frameworks for their real world application (Game design?)
+I'm fluent in Python, and I'm learning Rust, C and frameworks in Python to use in the real world. Might also learn C++ along with frameworks for their real world application (Game design?)
 <p float="left">
 <img width="49%" src="https://streak-stats.demolab.com/?user=tathyagarg&theme=prussian">
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tathyagarg&theme=vue">
