@@ -12,9 +12,11 @@ In terms of coding languages, I mainly code in Python, but am well-versed in C a
 In terms of real-world languages, I'm fluent in English and speak decent German. I'm also learning Dutch.
 
 ## Tech Stack
-Currently working on this right now, but I'm fluent in Python, but I'm learning Rust, C and frameworks in Python to use it in real world. Might also learn C++ along with frameworks for its real world application (Game design?)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tathyagarg&theme=dark)]
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tathyagarg&theme=github)
+Currently working on this right now, but I'm fluent in Python, and I'm learning Rust, C and frameworks in Python to use in the real world. Might also learn C++ along with frameworks for their real world application (Game design?)
+<p float="left">
+<img width="49%" src="https://streak-stats.demolab.com/?user=tathyagarg&theme=prussian">
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=tathyagarg&theme=vue">
+</p>
 
 ## Projects:
 1. [Discontinued] [TathyaLang](https://github.com/tathyagarg/TathyaLang) - My custom programming language written in Rust (everyone needs their own language, right?)
@@ -24,12 +26,12 @@ Currently working on this right now, but I'm fluent in Python, but I'm learning 
 5. [Chatbot](https://github.com/tathyagarg/chatbot) - Trying to learn data science and AI, thought this would be a good way to do so.
 
 ## Future Projects
-1. A personal portfolio website
-2. A blog
-3. Also I have a few data science projects lined up to work on.
+1.~~A personal portfolio website~~\
+2.~~A blog~~\
+3. Also I have a few data science projects lined up to work on.\
 
 Also, a sub-directory, `tathyagarg/tathyagarg/mini_projects`, contains small mini projects that are too quick and small for a dedicated repo, but I still would like to show.
 
 ## Currently Learning
-I'm currently learning Machine Learning through [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
-Also learning assembly programming so I can make my own OS in the future.
+Currently learning Quantum Computing! It's so interesting but so confusing haha. Check out my progress [here](https://github.com/tathyagarg/quantum_computing)/\
+Also currently learning Machine Learning through [Google's Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course) (starting soon).
