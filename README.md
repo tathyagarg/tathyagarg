@@ -1,4 +1,5 @@
-![](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=%20Hi,%20I%27m%20Tathya%20&height=300&fontSize=100)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![](https://komarev.com/ghpvc/?username=tathyagarg)
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
